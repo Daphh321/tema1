@@ -1,0 +1,42 @@
+﻿INTEGRANTES: 
+MARCELO LOPES
+GABRIELY SANTOS
+ANNA VITÓRIA DIAS
+NICOLE FREIRE
+DAPHNE GIOVANNA 
+
+
+________________
+
+
+Nome do grupo: mentes em equilíbrio 
+
+
+O motivo se dá por se combinar com o tema do nosso trabalho (saúde mental) e dar uma impressão mais séria ao nosso grupo quanto ao tema. 
+
+
+
+
+________________
+
+
+
+
+Explicando passo a passo para abrir o site.
+
+
+Acesse o link do projeto publicado no GitHub Pages.
+
+
+Aguarde o carregamento da página inicial.
+
+
+Utilize o menu de navegação para acessar as 
+seções do site:
+Início
+Saiba Mais
+Relatos
+Contato
+
+
+O site é totalmente navegável pelo navegador, sem necessidade de instalar programas ou fazer download de arquivos.
